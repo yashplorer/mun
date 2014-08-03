@@ -1,6 +1,6 @@
 .html
 {
-	background: #FFFFFF url("../images/bg.jpg") no-repeat center center scroll;
+	background: #FFFFFF url("../images/594342.jpg") no-repeat center center scroll;
 	background-size: cover !important;
 }
 
@@ -10,8 +10,8 @@
 	width: 0px;
 	min-height: 0px;
 	padding-top: 50px;
-	padding-right: 800px;
-	padding-bottom: 450px;
+	padding-right: 1000px;
+	padding-bottom: 750px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -22,7 +22,7 @@
 	width: 200px;
 	top: 100px;
 	left: 50%;
-	margin-left: -400px;
+	margin-left: -500px;
 }
 
 #u244
@@ -34,7 +34,7 @@
 {
 	width: 200px;
 	min-height: 17px;
-	padding-bottom: 41px;
+	padding-bottom: 101px;
 	margin-right: -10000px;
 }
 
@@ -48,7 +48,7 @@
 	width: 200px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 20px;
+	top: 50px;
 }
 
 #u247:hover #u249-4
@@ -63,7 +63,7 @@
 {
 	width: 200px;
 	min-height: 17px;
-	padding-bottom: 41px;
+	padding-bottom: 101px;
 	margin-right: -10000px;
 }
 
@@ -72,7 +72,7 @@
 	width: 200px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 20px;
+	top: 50px;
 }
 
 #u247.MuseMenuActive #u249-4,#u285:hover #u286-4
@@ -87,7 +87,7 @@
 {
 	width: 200px;
 	min-height: 17px;
-	padding-bottom: 41px;
+	padding-bottom: 101px;
 	margin-right: -10000px;
 }
 
@@ -96,7 +96,7 @@
 	width: 200px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 20px;
+	top: 50px;
 }
 
 #u285.MuseMenuActive #u286-4,#u271:hover #u274-4
@@ -111,7 +111,7 @@
 {
 	width: 200px;
 	min-height: 17px;
-	padding-bottom: 42px;
+	padding-bottom: 102px;
 	margin-right: -10000px;
 }
 
@@ -120,7 +120,7 @@
 	width: 200px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 21px;
+	top: 51px;
 }
 
 #u271.MuseMenuActive #u274-4,#u278:hover #u280-4
@@ -141,7 +141,7 @@
 {
 	width: 200px;
 	min-height: 17px;
-	padding-bottom: 42px;
+	padding-bottom: 102px;
 	margin-right: -10000px;
 }
 
@@ -155,7 +155,7 @@
 	width: 200px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 21px;
+	top: 51px;
 }
 
 #u278.MuseMenuActive #u280-4,#u252:hover #u253-4
