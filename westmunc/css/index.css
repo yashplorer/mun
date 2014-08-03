@@ -195,7 +195,7 @@
 	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
-	font-style: italic;
+	font-style: normal;
 }
 
 #u424-5
@@ -207,11 +207,6 @@
 	font-weight: 400;
 }
 
-#u424-3
-{
-	font-style: italic;
-}
-
 #u424-7
 {
 	font-size: 21px;
@@ -219,7 +214,7 @@
 	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
-	font-style: italic;
+	font-style: normal;
 }
 
 #page .verticalspacer
