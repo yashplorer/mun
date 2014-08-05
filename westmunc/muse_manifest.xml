@@ -4,7 +4,7 @@
     <file name="master_a-master.css" crc="3980495052" ref="media:registration:index:the-team:committees"/>
     <file name="media.css" crc="162934742" ref="media"/>
     <file name="registration.css" crc="12952522" ref="registration"/>
-    <file name="index.css" crc="432213915" ref="index"/>
+    <file name="index.css" crc="449885424" ref="index"/>
     <file name="the-team.css" crc="3891917398" ref="the-team"/>
     <file name="iefonts_the-team.css" crc="349447540" ref="the-team"/>
     <file name="committees.css" crc="4281259406" ref="committees"/>
@@ -20,8 +20,9 @@
   </folder>
   <folder name="images">
     <file name="594342.jpg" crc="3935183841" ref="index:committees:registration:the-team:media"/>
+    <file name="logo428x188.png" crc="4227851049" ref="index"/>
   </folder>
-  <file name="index.html" crc="490464451" mt="1407029825128" redirect="true"/>
+  <file name="index.html" crc="190294048" mt="1407282205930" redirect="true"/>
   <file name="committees.html" crc="3871707189" mt="1407029511385" redirect="true"/>
   <file name="registration.html" crc="431592994" mt="1407029436691" redirect="true"/>
   <file name="the-team.html" crc="354076185" mt="1407029606229" redirect="true"/>
