@@ -14,6 +14,12 @@
 	padding: 50px 100px 50px 450px;
 }
 
+#ppu342
+{
+	width: 0.01px;
+	position: relative;
+}
+
 #u342
 {
 	z-index: 154;
@@ -227,9 +233,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u346-7
@@ -272,9 +277,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u352-7
@@ -317,9 +321,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u358-7
@@ -362,9 +365,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u364-7
@@ -396,14 +398,6 @@
 	-pie-background: rgba(255, 255, 255, 0.21);
 }
 
-#ppemily
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #u397
 {
 	z-index: 163;
@@ -415,9 +409,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u398-7
@@ -460,9 +453,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
 }
 
 #u371-7
@@ -514,10 +506,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 6px;
-	left: 95px;
 }
 
 #u380-7
@@ -545,7 +535,6 @@
 	font-weight: 200;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
 	left: 150px;
 	-pie-background: rgba(255, 255, 255, 0.21);
 }
@@ -556,14 +545,14 @@
 	width: 50px;
 	height: 50px;
 	border-color: #000000;
-	background-color: #FFFFFF;
 	-moz-border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	left: 95px;
+	background: #FFFFFF url("../images/yash-u410-fr.jpg") no-repeat center center;
+	background-size: cover !important;
 }
 
 #u411-7
@@ -580,7 +569,7 @@
 {
 	z-index: 73;
 	width: 300px;
-	min-height: 100px;
+	min-height: 75px;
 	background-color: #FFFFFF;
 	background-color: rgba(255, 255, 255, 0.21);
 	color: #FFFFFF;
@@ -595,6 +584,14 @@
 	-pie-background: rgba(255, 255, 255, 0.21);
 }
 
+#pu386
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+}
+
 #u386
 {
 	z-index: 161;
@@ -606,10 +603,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 6px;
-	left: 95px;
 }
 
 #u387-7
@@ -637,36 +632,30 @@
 	font-weight: 200;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
 	left: 150px;
 	-pie-background: rgba(255, 255, 255, 0.21);
 }
 
-#pppyash,#pppwendy
-{
-	width: 0.01px;
-	top: -6px;
-	margin-bottom: -6px;
-	position: relative;
-}
-
-#pu342,#pprick,#ppmasao,#pppayal,#ppcleo,#ppramya,#ppmorgan,#ppyash,#ppaashna,#ppwendy
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#ppu342,#ppprick,#prick,#pppmasao,#pmasao,#ppppayal,#ppayal,#pppcleo,#pcleo,#pppemily,#pemily,#pppramya,#pramya,#pppmorgan,#pmorgan,#pyash,#pppaashna,#paashna,#pwendy
-{
-	width: 0.01px;
-	position: relative;
-}
-
-#rick,#masao,#payal,#cleo,#emily,#ramya,#morgan,#yash,#aashna,#wendy
+#aashna
 {
 	position: relative;
 	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 150px;
+}
+
+#ppu347,#ppu353,#ppu359,#ppu365,#ppu397,#ppu372,#ppu379,#ppu410,#ppu386,#ppu393
+{
+	width: 0.01px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#pu342,#pu347,#pu353,#pu359,#pu365,#pu397,#pu372,#pu379,#pu410,#pu393
+{
+	width: 0.01px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -681,10 +670,8 @@
 	-webkit-border-radius: 100px;
 	-khtml-border-radius: 100px;
 	border-radius: 100px;
+	margin-left: 95px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 6px;
-	left: 95px;
 }
 
 #u394-7
@@ -730,7 +717,6 @@
 	font-weight: 200;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
 	left: 150px;
 	-pie-background: rgba(255, 255, 255, 0.21);
 }
@@ -739,6 +725,14 @@
 {
 	padding-left: 5px;
 	padding-top: 5px;
+}
+
+#rick,#masao,#payal,#cleo,#emily,#ramya,#morgan,#yash,#wendy
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 150px;
 }
 
 #page .verticalspacer

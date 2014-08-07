@@ -7,11 +7,9 @@
 #page
 {
 	z-index: 1;
-	width: 0px;
-	min-height: 0px;
-	padding-top: 50px;
-	padding-right: 1000px;
-	padding-bottom: 750px;
+	width: 1000px;
+	min-height: 750px;
+	padding-bottom: 50px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -172,6 +170,20 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u448
+{
+	z-index: 33;
+	width: 600px;
+	min-height: 1440px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 300px;
 }
 
 #page .verticalspacer

@@ -1,6 +1,6 @@
 .html
 {
-	background: #FFFFFF url("../images/594342.jpg") no-repeat center center scroll;
+	background: #FFFFFF url("../images/594342.jpg") no-repeat center center fixed;
 	background-size: cover !important;
 }
 
@@ -172,7 +172,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu424-16
+#pu443
 {
 	width: 0.01px;
 	position: relative;
@@ -181,9 +181,19 @@
 	left: 347px;
 }
 
-#u424-16
+#u443
 {
 	z-index: 33;
+	width: 427px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 40px;
+}
+
+#u424-16
+{
+	z-index: 35;
 	width: 507px;
 	min-height: 235px;
 	background-color: #FFFFFF;
@@ -212,16 +222,6 @@
 	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
-}
-
-#u443
-{
-	z-index: 49;
-	width: 427px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 40px;
 }
 
 #page .verticalspacer
