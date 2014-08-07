@@ -1,14 +1,14 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="381068557"/>
-    <file name="master_a-master.css" crc="3980495052" ref="media:registration:index:the-team:committees"/>
-    <file name="media.css" crc="162934742" ref="media"/>
-    <file name="registration.css" crc="214926204" ref="registration"/>
-    <file name="index.css" crc="491966694" ref="index"/>
-    <file name="the-team.css" crc="301449074" ref="the-team"/>
+    <file name="master_a-master.css" crc="255872730" ref="media:registration:index:the-team:committees"/>
+    <file name="media.css" crc="92140865" ref="media"/>
+    <file name="registration.css" crc="235248205" ref="registration"/>
+    <file name="index.css" crc="123571077" ref="index"/>
+    <file name="the-team.css" crc="328469776" ref="the-team"/>
     <file name="iefonts_the-team.css" crc="349447540" ref="the-team"/>
-    <file name="committees.css" crc="4281259406" ref="committees"/>
-    <file name="iefonts_committees.css" crc="3915221734" ref="committees"/>
+    <file name="committees.css" crc="4052711286" ref="committees"/>
+    <file name="iefonts_committees.css" crc="4045779613" ref="committees"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:committees:registration:the-team:media"/>
@@ -21,12 +21,13 @@
   <folder name="images">
     <file name="594342.jpg" crc="4124807280" ref="index:committees:registration:the-team:media"/>
     <file name="logo.png" crc="4227851049" ref="index"/>
-    <file name="a-master-favicon.ico" crc="4276539155" ref="index"/>
+    <file name="a-master-favicon.ico" crc="419638344" ref="committees"/>
     <file name="yash-u410-fr.jpg" crc="6224232" ref="the-team"/>
+    <file name="home-favicon.ico" crc="419638344" ref="index"/>
   </folder>
-  <file name="index.html" crc="3806436747" mt="1407444696527" redirect="true"/>
-  <file name="committees.html" crc="4208344989" mt="1407444696528" redirect="true"/>
-  <file name="registration.html" crc="41528294" mt="1407445140994" redirect="true"/>
-  <file name="the-team.html" crc="427361730" mt="1407445068840" redirect="true"/>
-  <file name="media.html" crc="3973307837" mt="1407444696533" redirect="true"/>
+  <file name="index.html" crc="315072343" mt="1407452044752" redirect="true"/>
+  <file name="committees.html" crc="3901146615" mt="1407451637074" redirect="true"/>
+  <file name="registration.html" crc="4182359866" mt="1407451637076" redirect="true"/>
+  <file name="the-team.html" crc="191899586" mt="1407451637080" redirect="true"/>
+  <file name="media.html" crc="490442033" mt="1407451637082" redirect="true"/>
 </manifest>

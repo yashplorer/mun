@@ -9,9 +9,37 @@
 	z-index: 1;
 	width: 1000px;
 	min-height: 518px;
-	padding-bottom: 282px;
+	padding-bottom: 250px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#pu473
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: -381px;
+}
+
+#u473
+{
+	z-index: 33;
+	width: 200px;
+	min-height: 100px;
+}
+
+#u477
+{
+	z-index: 52;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
 }
 
 #menuu243
@@ -183,7 +211,7 @@
 
 #u443
 {
-	z-index: 33;
+	z-index: 34;
 	width: 427px;
 	position: relative;
 	margin-right: -10000px;
@@ -193,7 +221,7 @@
 
 #u424-16
 {
-	z-index: 35;
+	z-index: 36;
 	width: 507px;
 	min-height: 235px;
 	background-color: #FFFFFF;
