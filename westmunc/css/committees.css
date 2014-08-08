@@ -8,8 +8,8 @@
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 638px;
-	padding-bottom: 130px;
+	min-height: 718px;
+	padding-bottom: 50px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -41,8 +41,8 @@
 #u247
 {
 	width: 200px;
-	min-height: 17px;
-	padding-bottom: 101px;
+	min-height: 19px;
+	padding-bottom: 99px;
 	margin-right: -10000px;
 }
 
@@ -54,88 +54,88 @@
 #u249-4
 {
 	width: 200px;
-	min-height: 17px;
+	min-height: 19px;
 	margin-right: -10000px;
-	top: 50px;
+	top: 49px;
 }
 
 #u247:hover #u249-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u285
 {
 	width: 200px;
-	min-height: 17px;
-	padding-bottom: 101px;
+	min-height: 19px;
+	padding-bottom: 99px;
 	margin-right: -10000px;
 }
 
 #u286-4
 {
 	width: 200px;
-	min-height: 17px;
+	min-height: 19px;
 	margin-right: -10000px;
-	top: 50px;
+	top: 49px;
 }
 
 #u247.MuseMenuActive #u249-4,#u285:hover #u286-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u271
 {
 	width: 200px;
-	min-height: 17px;
-	padding-bottom: 101px;
+	min-height: 19px;
+	padding-bottom: 99px;
 	margin-right: -10000px;
 }
 
 #u274-4
 {
 	width: 200px;
-	min-height: 17px;
+	min-height: 19px;
 	margin-right: -10000px;
-	top: 50px;
+	top: 49px;
 }
 
 #u285.MuseMenuActive #u286-4,#u271:hover #u274-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u278
 {
 	width: 200px;
-	min-height: 17px;
-	padding-bottom: 102px;
+	min-height: 19px;
+	padding-bottom: 100px;
 	margin-right: -10000px;
 }
 
 #u280-4
 {
 	width: 200px;
-	min-height: 17px;
+	min-height: 19px;
 	margin-right: -10000px;
-	top: 51px;
+	top: 50px;
 }
 
 #u271.MuseMenuActive #u274-4,#u278:hover #u280-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -148,8 +148,8 @@
 #u252
 {
 	width: 200px;
-	min-height: 17px;
-	padding-bottom: 102px;
+	min-height: 19px;
+	padding-bottom: 100px;
 	margin-right: -10000px;
 }
 
@@ -161,16 +161,16 @@
 #u253-4
 {
 	width: 200px;
-	min-height: 17px;
+	min-height: 19px;
 	margin-right: -10000px;
-	top: 51px;
+	top: 50px;
 }
 
 #u278.MuseMenuActive #u280-4,#u252:hover #u253-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -178,7 +178,7 @@
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 17px;
+	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -188,38 +188,38 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 50px;
-	left: 450px;
+	left: 423px;
 }
 
 #u305-23
 {
 	z-index: 34;
-	width: 150px;
-	min-height: 188px;
-	text-align: right;
+	width: 178px;
+	min-height: 214px;
 	color: #FFFFFF;
+	text-align: right;
 	position: relative;
 }
 
 #u315-20
 {
 	z-index: 57;
-	width: 150px;
-	min-height: 188px;
-	text-align: right;
+	width: 178px;
+	min-height: 214px;
 	color: #FFFFFF;
-	margin-top: 12px;
+	text-align: right;
+	margin-top: 13px;
 	position: relative;
 }
 
 #u331-20
 {
 	z-index: 77;
-	width: 150px;
-	min-height: 188px;
-	text-align: right;
+	width: 178px;
+	min-height: 214px;
 	color: #FFFFFF;
-	margin-top: 12px;
+	text-align: right;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -241,13 +241,30 @@
 	font-weight: 300;
 }
 
-#u305-7,#u305-10,#u305-13,#u305-16,#u305-17,#u305-19,#u305-20,#u315-7,#u315-10,#u315-13,#u315-14,#u315-16,#u315-17,#u331-7,#u331-10,#u331-13,#u331-14,#u331-16,#u331-17
+#u305-7,#u305-10,#u305-13,#u305-16,#u315-7,#u315-10,#u315-13,#u331-7,#u331-10,#u331-13
 {
 	font-size: 11px;
-	line-height: 13px;
 	padding-right: 5px;
 	font-family: raleway, sans-serif;
 	font-weight: 200;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u305-5,#u305-8,#u305-11,#u305-14,#u315-5,#u315-8,#u315-11,#u331-5,#u331-8,#u331-11
+{
+	font-size: 12px;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	line-height: 14px;
+}
+
+#u305-17,#u305-19,#u305-20,#u315-14,#u315-16,#u315-17,#u331-14,#u331-16,#u331-17
+{
+	font-size: 12px;
+	line-height: 14px;
+	padding-right: 5px;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
 }
 
 #u305-21,#u315-18,#u331-18
@@ -264,60 +281,60 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 50px;
-	left: 600px;
+	left: 601px;
 }
 
 #u311-6
 {
 	z-index: 97;
-	width: 300px;
-	min-height: 188px;
+	width: 355px;
+	min-height: 214px;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.21);
-	line-height: 13px;
-	text-align: left;
-	font-size: 11px;
+	background-color: rgba(255, 255, 255, 0.4);
 	color: #FFFFFF;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
 	font-family: raleway, sans-serif;
-	font-weight: 200;
+	font-weight: 400;
 	position: relative;
-	-pie-background: rgba(255, 255, 255, 0.21);
+	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u314-6
 {
 	z-index: 103;
-	width: 300px;
-	min-height: 188px;
+	width: 355px;
+	min-height: 214px;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.21);
-	line-height: 13px;
-	text-align: left;
-	font-size: 11px;
+	background-color: rgba(255, 255, 255, 0.4);
 	color: #FFFFFF;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
 	font-family: raleway, sans-serif;
-	font-weight: 200;
-	margin-top: 12px;
+	font-weight: 400;
+	margin-top: 13px;
 	position: relative;
-	-pie-background: rgba(255, 255, 255, 0.21);
+	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u330-6
 {
 	z-index: 109;
-	width: 300px;
-	min-height: 188px;
+	width: 355px;
+	min-height: 214px;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.21);
-	line-height: 13px;
-	text-align: left;
-	font-size: 11px;
+	background-color: rgba(255, 255, 255, 0.4);
 	color: #FFFFFF;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
 	font-family: raleway, sans-serif;
-	font-weight: 200;
-	margin-top: 12px;
+	font-weight: 400;
+	margin-top: 13px;
 	position: relative;
-	-pie-background: rgba(255, 255, 255, 0.21);
+	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u311-2,#u311-4,#u314-2,#u314-4,#u330-2,#u330-4
