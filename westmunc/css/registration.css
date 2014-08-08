@@ -182,6 +182,21 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u498-6
+{
+	z-index: 35;
+	width: 169px;
+	min-height: 44px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 421px;
+	left: 50%;
+	margin-left: -483px;
+}
+
 #u448
 {
 	z-index: 34;

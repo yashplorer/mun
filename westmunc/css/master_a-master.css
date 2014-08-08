@@ -1,11 +1,3 @@
-#u473
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #menuu243
 {
 	position: fixed;
@@ -27,10 +19,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -53,10 +45,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -79,10 +71,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -105,10 +97,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -142,10 +134,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	color: #FFFFFF;
 	font-family: montserrat, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -170,5 +162,13 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u473
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 
